@@ -1,0 +1,91 @@
+.big-banner{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.65)),url('../img/img-home_banner.png');
+    background-size: cover;
+}
+
+.fresh-content{
+    background: linear-gradient(-45deg,#ec5252,#6e1a52);
+}
+
+
+.single-price {
+    background-color: #fff;
+    text-align: center;
+    box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.08); }
+@media (max-width: 991px) {
+    .single-price {
+        margin-bottom: 30px; } }
+.single-price .top-sec {
+    border-bottom: 1px solid #eeeeee;
+    padding: 40px 40px 22px 40px;
+    text-align: left;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s; }
+.single-price .top-sec br {
+    display: none; }
+@media (max-width: 1024px) {
+    .single-price .top-sec br {
+        display: block; } }
+.single-price .end-sec {
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    padding: 40px; }
+.single-price .end-sec ul li {
+    margin-bottom: 20px; }
+.single-price .price-btn {
+    background: #f9f9ff;
+    color: #222222;
+    border-radius: 0;
+    box-shadow: none;
+    border: 1px solid #dddddd;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s; }
+.single-price:hover {
+    cursor: pointer; }
+.single-price:hover .price-btn {
+    color: #fff; }
+@media (max-width: 800px) {
+    .single-price {
+        margin-bottom: 30px; } }
+
+
+.comments-area {
+    padding: 50px 30px;
+    margin-top: 50px; }
+@media (max-width: 414px) {
+    .comments-area {
+        padding: 50px 8px; } }
+.comments-area h4 {
+    text-align: center;
+    margin-bottom: 50px;
+    color: #222222;
+    font-size: 18px; }
+.comments-area h5 {
+    font-size: 16px;
+    margin-bottom: 0px; }
+.comments-area a {
+    color: #222222; }
+.comments-area .comment-list {
+    border: none;
+    padding-bottom: 48px; }
+.comments-area .comment-list:last-child {
+    padding-bottom: 0px; }
+.comments-area .comment-list.left-padding {
+    padding-left: 25px; }
+@media (max-width: 413px) {
+    .comments-area .comment-list .single-comment h5 {
+        font-size: 12px; }
+    .comments-area .comment-list .single-comment .date {
+        font-size: 11px; }
+    .comments-area .comment-list .single-comment .comment {
+        font-size: 10px; } }
+.comments-area .thumb {
+    margin-right: 20px; }
+.comments-area .comment {
+    margin-bottom: 0px; }
