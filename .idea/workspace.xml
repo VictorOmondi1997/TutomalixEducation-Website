@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b6fb375-a66a-4628-b56d-660a8e3e128e" name="Default Changelist" comment="updated login button to display modal login form">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="0b6fb375-a66a-4628-b56d-660a8e3e128e" name="Default Changelist" comment="updated login button to display modal login form" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,12 +242,12 @@
       <workItem from="1559072802045" duration="3420000" />
       <workItem from="1559108551091" duration="6141000" />
       <workItem from="1559195133211" duration="3068000" />
-      <workItem from="1559646340716" duration="2834000" />
+      <workItem from="1559646340716" duration="3422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55957000" />
+    <option name="totallyTimeSpent" value="56545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="676" y="0" width="697" height="743" extended-state="0" />
